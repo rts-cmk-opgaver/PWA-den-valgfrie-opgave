@@ -16,7 +16,7 @@ Opgaven har til formål at, demonstrere at **koncepterne fra PWA undervisningen*
   1. Pre-cache (The App Shell Model)
   2. Generic Fallback (Custom offline side)
   
-  **Målpinde**<br>
+  **Målpinde**
   0. Der skal i appen implementeres **eksterne data** via netværk.<br>
   1. Appen skal implementerere **funktionaliteter** fra enheden ex. viberation, notifikation, GPS etc.<br>
   2. Appen skal distribueres over HTTPS (Nemt opsætteligt og gratis på Netlify)
