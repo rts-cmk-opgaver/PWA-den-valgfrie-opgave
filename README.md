@@ -12,22 +12,22 @@ Opgaven har til formål at, demonstrere at **koncepterne fra PWA undervisningen*
   3. Et illustreret **userflow** for main feature ex. (find sko, køb sko, følg ordre, modtag ordre)
   
   **Koncepterne fra PWA undervisningen**<br>
-  0. Custom install UI element
-  1. Pre-cache (The App Shell Model)
-  2. Generic Fallback (Custom offline side)
+  1. Custom install UI element
+  2. Pre-cache (The App Shell Model)
+  3. Generic Fallback (Custom offline side)
   
   **Målpinde**<br>
-  0. Appen skal implementerere **funktionaliteter** fra enheden ex. viberation, notifikation, GPS etc.<br>
-  1. Der skal i appen implementeres **eksterne data** via netværk.<br>
-  2. Appen skal distribueres over HTTPS (Nemt opsætteligt og gratis på Netlify)
+  1. Appen skal implementerere **funktionaliteter** fra enheden ex. viberation, notifikation, GPS etc.<br>
+  2. Der skal i appen implementeres **eksterne data** via netværk.<br>
+  3. Appen skal distribueres over HTTPS (Nemt opsætteligt og gratis på Netlify)
   
 
 # Produktet(MVP) skal udvikles som PWA
 Projektet **SKAL** opfylde kriterierne for en **PWA**. Brug **Lighthouse** rapporterne som hjælp.
 Dit projekt skal derfor integreres med:
 
-  0. Et **Manifest**
-  1. En **Serviceworker**
+  1. Et **Manifest**
+  2. En **Serviceworker**
   
 # Build, test, and learn!
 God arbejdslyst...
