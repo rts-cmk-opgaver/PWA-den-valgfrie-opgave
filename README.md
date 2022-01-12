@@ -6,15 +6,17 @@ Opgaven har til formål at, demonstrere at **koncepterne fra PWA undervisningen*
 # Projektet skal indeholde følgende
   
   **Indledende opgave**<br>
-  *Du skal ikke bruge yderligere tid på at forfinde disse. Du har allerede lavet dem, aflever dem som de er!*<br>
-  1. Et udfyldt **koncept** (den udleverede pdf)
-  2. En 'feature-liste' hvor **main feature** er fremhævet
-  3. Et illustreret **userflow** for main feature ex. (find sko, køb sko, følg ordre, modtag ordre)
+  <br>
+  1. Et udfyldt **koncept** (Hvad er idéen med din app? Brug eventuelt den udleverede pdf.)
+  2. En 'feature-liste' hvor **main feature** er fremhævet 
+  - Hvad skal man kunne med app'en?
+  - Hvad er det vigtigste som app'en kan (main feature)
+  3. Aflevér eventuelt et illustreret **userflow** for main feature ex. (find sko, køb sko, følg ordre, modtag ordre)
   
   **Koncepterne fra PWA undervisningen**<br>
-  1. Custom install UI element
+  1. Custom install UI element (inkl. løsning til iOs)
   2. Pre-cache (The App Shell Model)
-  3. Generic Fallback (Custom offline side)
+  3. Generic Fallback (En offline sides som vises, i tilfælde af manglende internet forbindelse)
   
   **Målpinde**<br>
   1. Appen skal implementerere **funktionaliteter** fra enheden ex. viberation, notifikation, GPS etc.<br>
@@ -22,7 +24,8 @@ Opgaven har til formål at, demonstrere at **koncepterne fra PWA undervisningen*
   3. Appen skal distribueres over HTTPS (Nemt opsætteligt og gratis på Netlify)
   
 
-# Produktet(MVP) skal udvikles som PWA
+# Produktet skal udvikles som PWA
+Du skal aflevere et såkaldt "Minimal Viable Product" - altså en app, som har lige nøjagtig nok features til at være brugbar, men som ikke nødvendigvis fremstår færdig.
 Projektet **SKAL** opfylde kriterierne for en **PWA**. Brug **Lighthouse** rapporterne som hjælp.
 Dit projekt skal derfor integreres med:
 
