@@ -25,7 +25,7 @@ Opgaven har til formål at, demonstrere at **koncepterne fra PWA undervisningen*
   
 
 # Produktet skal udvikles som PWA
-Du skal aflevere et såkaldt "Minimal Viable Product" - altså en app, som har lige nøjagtig nok features til at være brugbar, men som ikke nødvendigvis fremstår færdig.
+Du skal aflevere et såkaldt "Minimum Viable Product" - altså en app, som har lige nøjagtig nok features til at være brugbar, men som ikke nødvendigvis fremstår færdig.
 Projektet **SKAL** opfylde kriterierne for en **PWA**. Brug **Lighthouse** rapporterne som hjælp.
 Dit projekt skal derfor integreres med:
 
